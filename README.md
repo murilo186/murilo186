@@ -142,11 +142,3 @@ Em paralelo, estudo **AWS, Docker e Linux** para entender melhor infraestrutura 
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilofd16@gmail.com)
 
 </p>
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo_Frazão-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-murilo186-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/murilo186)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL)
-
-</p>
