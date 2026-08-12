@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Murilo Frazão
+# Murilo Frazão
 
 ### Desenvolvedor de Software | Ciência da Computação @ UFABC
 
