@@ -1,8 +1,8 @@
 # Murilo Frazão 👨‍💻
 
-Estudante de **Ciência da Computação na UFABC** e Técnico em Informática pelo IFSP. Tenho experiência com desenvolvimento de software, automação de processos e aplicações web, com foco atual em **Back-end, Cloud Computing e Inteligência Artificial aplicada**.
+Estudante de **Ciência da Computação na UFABC** e Técnico em Informática pelo **IFSP**. Tenho experiência com desenvolvimento de software, automação de processos, dados e aplicações web, com foco atual em **Back-end, Cloud Computing e Inteligência Artificial aplicada**.
 
-Gosto de desenvolver projetos que saem da ideia e chegam até uma aplicação realmente utilizável, passando por arquitetura, banco de dados, APIs, deploy e infraestrutura.
+Gosto de construir projetos de ponta a ponta, passando pela identificação do problema, arquitetura, banco de dados, APIs, desenvolvimento, deploy e infraestrutura.
 
 ---
 
@@ -11,20 +11,24 @@ Gosto de desenvolver projetos que saem da ideia e chegam até uma aplicação re
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,bash&theme=dark" />
 </p>
 
-### Desenvolvimento
+### Back-end & Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,postgres,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,vite,flutter,postgres,supabase&theme=dark" />
 </p>
 
-### Cloud & Ferramentas
+### Cloud, Infraestrutura & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,ubuntu,git,github,vercel&theme=dark" />
 </p>
+
+### Outras tecnologias
+
+**Spring Boot · REST APIs · Flyway · PostgreSQL · Docker Compose · Power Apps · Power Automate · SharePoint · Supabase · Tailscale · LLMs · RAG · Automação com IA**
 
 ---
 
@@ -34,25 +38,25 @@ Gosto de desenvolver projetos que saem da ideia e chegam até uma aplicação re
 <tr>
 <td width="50%" valign="top">
 
-### NALM
+### PMS — Portfolio Management System
 
-Sistema logístico para gerenciamento de **fretes, equipes e motoristas**, composto por painel empresarial e aplicação para motoristas.
+Sistema de gestão de carteiras de investimento desenvolvido com foco em **arquitetura back-end, consistência transacional e modelagem financeira**.
 
-**React · React Native · Node.js · PostgreSQL**
+Gerencia clientes, carteiras, ativos, transações, posições, cotações, caixa e cálculo de preço médio, além de lucro realizado e não realizado.
 
-Campeão na categoria **Trabalho e Tecnologia** da Feira do IFSP.
+**Java · Spring Boot · PostgreSQL · Flyway · Docker · REST APIs**
 
 </td>
 
 <td width="50%" valign="top">
 
-### Meliar
+### JEV
 
-E-commerce em produção com gerenciamento de **produtos, estoque, imagens, pedidos e configurações** através de painel administrativo.
+Agente de Inteligência Artificial voltado para **análise e apoio à tomada de decisão**, estruturando informações e retornando avaliações com score e probabilidade.
 
-**Next.js · TypeScript · Supabase · PostgreSQL · Vercel**
+Projeto utilizado para explorar **agentes de IA, automação, LLMs e construção de fluxos inteligentes de decisão**.
 
-Projeto publicado e utilizado por usuários reais.
+**IA Generativa · LLMs · Agentes de IA · Automação**
 
 </td>
 </tr>
@@ -60,19 +64,79 @@ Projeto publicado e utilizado por usuários reais.
 <tr>
 <td width="50%" valign="top">
 
-### CAMPS
+### NALM GO
 
-Aplicação para controle de **instrumentos, empréstimos, turmas, presença e histórico**, desenvolvida em equipe.
+Plataforma logística web e mobile para gerenciamento de **empresas, fretes, equipes e motoristas**.
 
-**Flutter · Dart · Supabase · PostgreSQL**
+Inclui controle de viagens, ganhos por motorista, autenticação, candidaturas e convites entre empresas e profissionais.
+
+**React · React Native · Node.js · Express · PostgreSQL**
+
+🏆 Campeão na categoria **Trabalho e Tecnologia** da Feira do IFSP.
 
 </td>
 
 <td width="50%" valign="top">
 
+### Meliar
+
+E-commerce em produção com gerenciamento de **produtos, estoque, imagens, pedidos e configurações** por meio de painel administrativo.
+
+A aplicação recebeu aproximadamente **400 visitantes e 3.000 page views durante sua primeira semana**.
+
+**React · TypeScript · Vite · Supabase · PostgreSQL · Vercel**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Home Server & Cloud Pessoal
+
+Infraestrutura própria baseada em Linux para hospedagem de serviços, armazenamento e automações.
+
+Ambiente com serviços conteinerizados, cloud pessoal, banco de dados, acesso remoto seguro, backups e automação de inicialização do servidor.
+
+**Ubuntu Server · Docker · PostgreSQL · Nextcloud · Tailscale · SSH · Bash · ESP32**
+
+</td>
+
+<td width="50%" valign="top">
+
+### CAMPS
+
+Aplicação mobile desenvolvida em equipe para gerenciamento de **instrumentos, empréstimos, turmas, presença e histórico de utilização**.
+
+Responsável por centralizar operações que anteriormente dependiam de controles manuais.
+
+**Flutter · Dart · Supabase · PostgreSQL**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### Automação de Processos
 
-Desenvolvimento de soluções corporativas utilizando **Power Apps, Power Automate, SharePoint e Inteligência Artificial**, integrando processos e reduzindo tarefas manuais.
+Desenvolvimento de soluções corporativas para digitalização e integração de processos internos.
+
+Criação de aplicações e fluxos envolvendo formulários, aprovações, processamento de dados e uso de Inteligência Artificial para redução de tarefas manuais.
+
+**Power Apps · Power Automate · SharePoint · Forms · Excel · IA**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Integrações & Dados
+
+Experiência prática trabalhando com **modelagem, tratamento e validação de dados**, integrações entre sistemas e automação de operações.
+
+Atuação em processos envolvendo migração e padronização de dados, APIs e construção de soluções orientadas a dados.
+
+**PostgreSQL · SQL · REST APIs · Excel · VBA · Automação**
 
 </td>
 </tr>
@@ -82,9 +146,17 @@ Desenvolvimento de soluções corporativas utilizando **Power Apps, Power Automa
 
 ## Atualmente
 
-Tenho direcionado meus estudos para **Java e desenvolvimento Back-end**, aprofundando conceitos de APIs REST, bancos de dados, arquitetura de software e boas práticas de desenvolvimento.
+Tenho direcionado meus estudos principalmente para **engenharia de software e desenvolvimento Back-end com Java**, aprofundando conhecimentos em **Spring Boot, APIs REST, PostgreSQL, modelagem de dados, arquitetura de software e boas práticas de desenvolvimento**.
 
-Em paralelo, estudo **AWS, Docker e Linux** para aprofundar meus conhecimentos em infraestrutura e deploy, além de explorar aplicações de **LLMs, RAG e automação com Inteligência Artificial**.
+Também venho aprofundando conhecimentos em **Linux, Docker e Cloud Computing**, construindo ambientes próprios de infraestrutura e explorando conceitos relacionados a deploy, redes, serviços conteinerizados e automação.
+
+Em Inteligência Artificial, meu foco está em aplicações práticas de **LLMs, RAG, agentes de IA e automação de processos**, buscando integrar IA a sistemas e fluxos reais.
+
+---
+
+## Áreas de interesse
+
+`Back-end Engineering` · `Cloud Computing` · `Data` · `Artificial Intelligence` · `Software Engineering` · `Automation`
 
 ---
 
@@ -93,14 +165,14 @@ Em paralelo, estudo **AWS, Docker e Linux** para aprofundar meus conhecimentos e
 <p align="center">
   <img
     width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilo186&theme=github_dark&animation=rise"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilo186&theme=github_dark"
   />
 </p>
 
 <p align="center">
   <img
     width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murilo186&theme=github_dark&hide_logo=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murilo186&theme=github_dark"
   />
   <img
     width="47%"
@@ -121,8 +193,8 @@ Em paralelo, estudo **AWS, Docker e Linux** para aprofundar meus conhecimentos e
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo_Frazão-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/murilofdutra)
-[![GitHub](https://img.shields.io/badge/GitHub-murilo186-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/murilo186)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:murilofd16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo_Frazão-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilofdutra)
+[![GitHub](https://img.shields.io/badge/GitHub-murilo186-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilo186)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilofd16@gmail.com)
 
 </p>
